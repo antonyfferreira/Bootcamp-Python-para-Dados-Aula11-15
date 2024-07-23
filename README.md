@@ -1,7 +1,7 @@
-# aula02_bootcamp
+# Bootcamp Python para Dados:
 
-instalar pyenv
-
-instalar poetry
-
-instalar ....
+#### Aula 11
+#### Aula 12
+#### Aula 13
+#### Aula 14
+#### Aula 15
